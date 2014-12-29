@@ -1,0 +1,13 @@
+{
+  "author": "Rene Rafael Vogt-Lowell",
+  "dependencies": [],
+  "license": "GPL-3.0",
+  "name": "renevogtlowell-test123",
+  "operatingsystem_support": [],
+  "project_page": "http://cinesthetic.github.io/geppetto_test123",
+  "requirements": [],
+  "source": "https://github.com/cinesthetic/geppetto_test123.git",
+  "summary": "Just a test module",
+  "tags": [],
+  "version": "0.1.0"
+}
